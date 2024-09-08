@@ -1,7 +1,7 @@
 ## Hey! Welcome to my Github page!
 My primary language is ✨RUST✨
 
-Areas of interest includes but not limited to:
+Areas of interest include but are not limited to:
 - Computer graphics and ray tracing
 - Architecture and optimizations
 - Embedded programming
